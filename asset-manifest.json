@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillnetic/static/css/main.b322ec21.css",
+    "main.js": "/skillnetic/static/js/main.a73ac0f5.js",
+    "index.html": "/skillnetic/index.html",
+    "main.b322ec21.css.map": "/skillnetic/static/css/main.b322ec21.css.map",
+    "main.a73ac0f5.js.map": "/skillnetic/static/js/main.a73ac0f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b322ec21.css",
+    "static/js/main.a73ac0f5.js"
+  ]
+}
